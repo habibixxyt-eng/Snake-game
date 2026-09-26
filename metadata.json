@@ -1,0 +1,8 @@
+{
+  "name": "Remix Pavi Endra Paambu",
+  "description": "Vibrant retro-arcade snake game inspired by the legendary Tamil serpent king, featuring custom game modes, special power-up fruits, obstacles, achievements, and persistent high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
